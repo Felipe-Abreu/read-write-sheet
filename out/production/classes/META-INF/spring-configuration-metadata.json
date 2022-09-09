@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "api",
+      "type": "Config",
+      "sourceType": "Config"
+    }
+  ],
+  "properties": [
+    {
+      "name": "api.spreadsheet-id",
+      "type": "java.lang.String",
+      "sourceType": "Config"
+    }
+  ],
+  "hints": []
+}
